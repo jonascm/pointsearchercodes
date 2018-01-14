@@ -1,0 +1,1761 @@
+1513993144186	geckodriver	INFO	geckodriver 0.19.1
+1513993144194	geckodriver	INFO	Listening on 127.0.0.1:46474
+1513993145343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1GpJNFKIA1ue"
+1513993145871	Marionette	INFO	Enabled via --marionette
+1513993147148	Marionette	INFO	Listening on port 41387
+1513993147155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513993147216	Marionette	DEBUG	Register listener.js for window 2147483649
+1513993147241	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513993147712	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513993147712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513993147904	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1513993147923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1513993150025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1513993151211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1513993152789	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1513993155663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1513993155664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1513993155678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513993155978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513993156229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1513993156316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514048870740	geckodriver	INFO	geckodriver 0.19.1
+1514048870744	geckodriver	INFO	Listening on 127.0.0.1:47565
+1514048871895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8KNJOTbKNWZM"
+1514048872563	Marionette	INFO	Enabled via --marionette
+1514048874567	Marionette	INFO	Listening on port 40233
+1514048874619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514048874701	Marionette	DEBUG	Register listener.js for window 2147483649
+1514048874727	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514048875061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514048875061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514048875179	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514048875199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514048876943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514048878248	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514048881647	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514048884529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514048884746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514048884747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514048884892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514048885292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514048885293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/sitewide/v4.12.0/criticalPath.min.js, line 1: Error: TrackJS Caught: flexDatesSearchObj.preloadImages is not a function
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+1514049256272	geckodriver	INFO	geckodriver 0.19.1
+1514049256276	geckodriver	INFO	Listening on 127.0.0.1:45781
+1514049257427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iYyt9QCEZBJN"
+1514049258094	Marionette	INFO	Enabled via --marionette
+1514049261085	Marionette	INFO	Listening on port 33044
+1514049261150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514049261258	Marionette	DEBUG	Register listener.js for window 2147483649
+1514049261299	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514049261604	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514049261604	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514049261722	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514049261751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514049263571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514049264255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514049265977	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514049269110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514049300928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514049300929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514049301069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514049301474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514049301512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050072540	geckodriver	INFO	geckodriver 0.19.1
+1514050072544	geckodriver	INFO	Listening on 127.0.0.1:34479
+1514050073689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.byCrmxrMddEV"
+1514050074347	Marionette	INFO	Enabled via --marionette
+1514050075917	Marionette	INFO	Listening on port 38452
+1514050076002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514050076099	Marionette	DEBUG	Register listener.js for window 2147483649
+1514050076142	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514050076516	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514050076517	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514050076654	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050076674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050078503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050079605	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514050081225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050084265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514050084266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514050084295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050084620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050084928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514050085056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050484654	geckodriver	INFO	geckodriver 0.19.1
+1514050484662	geckodriver	INFO	Listening on 127.0.0.1:59740
+1514050485807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IJp5Yj232mXW"
+1514050486497	Marionette	INFO	Enabled via --marionette
+1514050488138	Marionette	INFO	Listening on port 43781
+1514050488218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514050488300	Marionette	DEBUG	Register listener.js for window 2147483649
+1514050488333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514050488672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514050488672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514050488805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050488826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050490670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050491612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514050494408	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050497622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514050497622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050498017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050498384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514050498387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050713489	geckodriver	INFO	geckodriver 0.19.1
+1514050713496	geckodriver	INFO	Listening on 127.0.0.1:44395
+1514050714645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FFvilTcOihhF"
+1514050715340	Marionette	INFO	Enabled via --marionette
+1514050716949	Marionette	INFO	Listening on port 46583
+1514050716978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514050717043	Marionette	DEBUG	Register listener.js for window 2147483649
+1514050717072	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514050717389	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514050717390	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514050717524	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050717546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050719288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050720164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514050721887	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050724771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514050724772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514050724795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050725175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050725488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514050725628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050731059	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050731224	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050731227	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050731318	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050731343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050731351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514050731351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514050731352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050733303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050734228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514050734715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050738024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514050738026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514050738039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050738593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050744465	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050744583	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050744585	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050744659	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050744686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050744696	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514050744696	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050746358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050747047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514050747674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050751261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050751633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514050751655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1514050751859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050758259	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050758413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050758416	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050758496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050758522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050758530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514050758530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050760236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050760503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514050761598	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050764582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050765053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://d1af033869koo7.cloudfront.net/frontends/files/js/widget-loader.min.js, line 11: Error: ConfigurationManager:  is not undefined or null
+1514050780548	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050780679	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050780682	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050780760	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050780787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050780795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1514050780796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050782477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050782791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1514050784433	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050787635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050788034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1514050788080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050794705	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050794815	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050794819	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050794933	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050794960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050794970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1514050794971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050796831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050797210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1514050797831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050801162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050801834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050808085	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050808251	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050808253	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050808338	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050808365	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050808373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1514050808374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050810143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050810539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1514050811248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050814838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050815384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+1514050815418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050821625	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050821756	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050821759	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050821824	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050821846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050821853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483829"
+1514050821854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483827"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050823535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050824193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483834"
+1514050824947	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050828156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1514050828169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483844"
+1514050828203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050828644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050834750	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050834871	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050834873	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050834970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050834994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050835002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1514050835002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483853"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050836781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050837581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1514050838299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050841805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1514050841807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1514050841878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050842300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483874"
+1514050842319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050848627	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050848750	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050848752	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050848827	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050848852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050848861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483881"
+1514050848861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483879"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050850615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050850942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483886"
+1514050856014	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050859031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483894"
+1514050859072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483896"
+1514050859141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050859564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050865268	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050872529	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050872534	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050872612	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050872640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050872648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483907"
+1514050872649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483905"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050874266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050874744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483912"
+1514050875548	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050879284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050879823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483926"
+1514050879824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050886663	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050886783	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050886786	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050886877	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050886899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050886909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483933"
+1514050886909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483931"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050888557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050889091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483938"
+1514050889729	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050893231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483943"
+1514050893232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483945"
+1514050893269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050893714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514050899856	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050899993	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050899996	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050900094	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050900121	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050900130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483959"
+1514050900131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483957"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050901777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050902299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483964"
+1514050902899	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050906592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050907121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483969"
+1514050907135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483971"
+1514050907271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050913768	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050913908	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050913911	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050913998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050914025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050914035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483985"
+1514050914035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483983"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050915743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050916103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483990"
+1514050916848	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050920480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050920819	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483995"
+1514050920831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483997"
+1514050920994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484003"
+1514050920994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514050927522	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050927689	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050927691	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050927962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050927988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050928000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484011"
+1514050928000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484009"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050929682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050930089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484016"
+1514050930803	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050934458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050934989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050941587	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050941705	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050941709	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050941801	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050941836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050941850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484037"
+1514050941863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484035"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050943518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050944044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484042"
+1514050944932	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050948202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050948749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050956588	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050956715	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050956717	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050956805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050956829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050956838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484063"
+1514050956838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484061"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050958568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050959110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484068"
+1514050961231	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050980085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050980475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484082"
+1514050980524	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/"
+1514050980678	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/"
+1514050980683	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/"
+1514050980972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484073"
+1514050980973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484070"
+1514050981757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050982761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484086"
+1514050983692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050986300	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050986462	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050986466	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514050986577	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050986602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050986614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484089"
+1514050986614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484087"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514050988320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514050988586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484094"
+1514050989500	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514050992930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484099"
+1514050992931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484101"
+1514050993132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514050993725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051000292	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051000408	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051000410	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051000485	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051000512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051000522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484115"
+1514051000522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484113"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051002167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051002519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484120"
+1514051003239	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051006654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051007034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484125"
+1514051007035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484127"
+1514051007215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051014095	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051014212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051014219	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051014308	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051014338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051014352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484141"
+1514051014353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484139"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051016109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051016500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484146"
+1514051017539	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051020844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484154"
+1514051020846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484156"
+1514051020903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051021349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484160"
+1514051021361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051029471	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051029589	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051029593	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051029681	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051029709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051029719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484167"
+1514051029719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484165"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051031389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051032069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484172"
+1514051032794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051036091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051036439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484186"
+1514051036544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051044399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051044572	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051044574	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051044645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051044673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051044682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484193"
+1514051044682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484191"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051046359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051047012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484198"
+1514051047722	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051051403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051051716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484208"
+1514051051946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051061664	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051061822	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051061824	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051061903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051061931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051061940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484219"
+1514051061940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484217"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051063664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051064116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484224"
+1514051064794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051068548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051069151	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051078490	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051078638	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051078641	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051078728	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051078752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051078762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484245"
+1514051078762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484243"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051080467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051081162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484250"
+1514051081870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051085161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484258"
+1514051085162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051085639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484264"
+1514051085657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051094163	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051094295	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051094297	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051094441	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051094470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051094479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484271"
+1514051094480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484269"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051096189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051096451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484276"
+1514051097575	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (112): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051101247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051101686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484290"
+1514051101739	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/"
+1514051101901	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/"
+1514051101908	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/"
+1514051102232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484281"
+1514051102232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484278"
+1514051103045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051103434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484294"
+1514051104331	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051110525	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051110702	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051110704	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051110790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051110848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051110863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484297"
+1514051110864	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484295"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051112504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051112897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484302"
+1514051113890	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051117495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051117998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484316"
+1514051118024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051127092	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051127256	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051127259	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051127342	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051127370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051127379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484323"
+1514051127379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484321"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051129042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051129362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484328"
+1514051130245	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051133619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051134007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484336"
+1514051134029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484338"
+1514051134202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051142500	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051142634	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051142637	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051142792	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051142818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051142830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484349"
+1514051142830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484347"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051144822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051145419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484354"
+1514051146235	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051149513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484362"
+1514051149514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484364"
+1514051149585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051150020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051159770	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051159928	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051159931	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051160012	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051160039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051160049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484375"
+1514051160049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484373"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051161721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051162191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484380"
+1514051163107	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051166337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051166721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484394"
+1514051166840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051175902	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051176024	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051176028	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051176094	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051176116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051176125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484401"
+1514051176125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484399"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051177761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051178174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484406"
+1514051178915	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051182579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051183115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484417"
+1514051183140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051191537	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051191667	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051191670	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051191756	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051191784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051191794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484427"
+1514051191794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484425"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051193429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051194117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484432"
+1514051194819	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051198386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051198888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484446"
+1514051198888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051208458	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051208626	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051208629	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051208721	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051208745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051208755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484453"
+1514051208756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484451"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051210389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051210856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484458"
+1514051211781	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051215282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051215721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484472"
+1514051215786	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/"
+1514051215939	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/"
+1514051215946	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/"
+1514051216227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484463"
+1514051216227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484460"
+1514051216991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051217384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484476"
+1514051218210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051224944	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051225071	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051225074	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051225148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051225170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051225178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484479"
+1514051225178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484477"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051226870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051227382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484484"
+1514051228273	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051231676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484492"
+1514051231678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484494"
+1514051231706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051232205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22876, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514051242022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051242300	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051242303	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051242390	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051242419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051242427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484505"
+1514051242428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484503"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051244124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051244469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484510"
+1514051245198	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051248929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051249720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051259995	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051260140	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051260142	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051260227	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051260252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051260262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484531"
+1514051260262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484529"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051261985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051262668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484536"
+1514051263450	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051266979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051267383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484550"
+1514051267416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051274116	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051274227	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051274228	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051274293	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051274320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051274330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484557"
+1514051274330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484555"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051276050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051276413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484562"
+1514051277630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051280970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051281458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484576"
+1514051281473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051287580	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051287760	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051287762	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051287842	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051287870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051287878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484583"
+1514051287879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484581"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051289630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051289958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484588"
+1514051291146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051294472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051294898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484602"
+1514051294910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051301377	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051301532	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051301534	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051301618	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051301646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051301656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484609"
+1514051301656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484607"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051303358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051303709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484614"
+1514051304777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051308381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051308896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484628"
+1514051308902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051315184	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051315290	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051315291	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051315363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051315388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051315398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484635"
+1514051315398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484633"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051317116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051317709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484640"
+1514051319035	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051322758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051323223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484654"
+1514051323235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100033,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1514051329899	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051330061	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051330064	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051330152	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051330182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051330193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484661"
+1514051330193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484659"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051331889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051332456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484666"
+1514051333230	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051336107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484674"
+1514051336115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484676"
+1514051336210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051336654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484680"
+1514051336702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051845372	geckodriver	INFO	geckodriver 0.19.1
+1514051845379	geckodriver	INFO	Listening on 127.0.0.1:55463
+1514051846525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2mPztlJHxoSz"
+1514051847558	Marionette	INFO	Enabled via --marionette
+1514051848788	Marionette	INFO	Listening on port 37128
+1514051848895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514051848956	Marionette	DEBUG	Register listener.js for window 2147483649
+1514051848981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514051849473	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514051849473	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514051849599	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051849615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051851227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051852150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514051853746	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051855953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051856119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514051856119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514051856283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051856588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514051856713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051862815	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051862998	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051863001	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051863077	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051863104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051863113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514051863114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514051863114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051864412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051864745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514051865214	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051867965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051868416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051874512	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051875128	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051875132	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051875218	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051875244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051875254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514051875255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051876668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051876941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514051877492	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051880434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051880862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051886252	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051886448	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051886451	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051886530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051886552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051886559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1514051886559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051888101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051888367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1514051889060	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051891953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1514051891954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1514051891981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051892283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1514051892410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051898796	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051898975	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051898977	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051899040	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051899061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051899068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1514051899068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051900506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051900718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1514051901417	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051903841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1514051903841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1514051903844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051904353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1514051904387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051910658	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051910836	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051910840	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051910936	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051910958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051910965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1514051910965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051912435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051912699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1514051914161	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051915059	Marionette	DEBUG	Register listener.js for window 2147483796
+1514051915144	Marionette	DEBUG	Register listener.js for window 2147483800
+1514051916849	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1514051916869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1514051916930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051917178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1514051917319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051959270	geckodriver	INFO	geckodriver 0.19.1
+1514051959272	geckodriver	INFO	Listening on 127.0.0.1:52616
+1514051960427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wrst3vPtWbQk"
+1514051961326	Marionette	INFO	Enabled via --marionette
+1514051962747	Marionette	INFO	Listening on port 35960
+1514051962846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514051962911	Marionette	DEBUG	Register listener.js for window 2147483649
+1514051962930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514051963375	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514051963376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514051963505	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051963530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051965131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051965556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1514051967512	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051969707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051970456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514051970456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514051970590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051970893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514051971011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051977289	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051977512	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051977515	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051977689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051977710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051977717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514051977717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514051977718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051979150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051979355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514051980080	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051982837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514051982847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514051982848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051983080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1514051983226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051988739	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051988944	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051988947	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514051989027	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051989044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051989052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514051989052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514051990498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514051990722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514051992294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514051994879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514051994880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1514051994959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514051995196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1514051995340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052001307	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052001509	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052001513	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052001623	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052001643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052001652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514052001652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052003158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052003369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514052004056	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052006806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052007095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1514052007220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052013545	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052013755	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052013758	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052013846	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052013868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052013875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1514052013875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052015235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052015444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1514052016286	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052019030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1514052019033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+1514052019396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052019658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1514052019810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052026169	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052026380	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052026383	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052026459	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052026481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052026488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1514052026489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052027932	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052028191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483789"
+1514052029157	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052031527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1514052031538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1514052031601	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052031851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1514052031992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052038307	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052038524	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052038526	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052038599	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052038620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052038627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1514052038627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052040039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052040250	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1514052041225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052043562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483823"
+1514052043566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483825"
+1514052043625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052043874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483829"
+1514052044016	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052049776	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052049903	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052049904	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052049973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052049994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052050003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483836"
+1514052050003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483834"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052051450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052051759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483841"
+1514052053021	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052055624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483849"
+1514052055636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483851"
+1514052055684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052055918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1514052056059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052062324	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052062478	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052062481	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052062568	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052062588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052062594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+1514052062595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052064041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052064324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1514052065999	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052068542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483875"
+1514052068543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483877"
+1514052068556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052068797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483881"
+1514052068949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052075167	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052075378	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052075380	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052075438	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052075459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052075466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483888"
+1514052075466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483886"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052076825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052077122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483893"
+1514052077624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052080228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052080718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052086818	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052086982	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052086984	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052087048	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052087068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052087076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483914"
+1514052087076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483912"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052088502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052088870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483919"
+1514052090064	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052092700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483927"
+1514052092701	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483929"
+1514052092750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052093009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483933"
+1514052093157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052099024	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052099180	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052099183	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052099262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052099283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052099290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483940"
+1514052099290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483938"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052100712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052101012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483945"
+1514052102047	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052104474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483953"
+1514052104476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483955"
+1514052104579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052104830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483959"
+1514052104961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052111320	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052111612	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052111615	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052111706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052111727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052111735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483966"
+1514052111735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483964"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052113260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052113535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483971"
+1514052114185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052116755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483979"
+1514052116756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483981"
+1514052116852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052117201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483985"
+1514052128886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/sitewide/v4.12.0/criticalPath.min.js, line 1: Error: TrackJS Caught: A network error occurred.
+1514052135063	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052135264	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052135265	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052135576	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052135600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052135609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483992"
+1514052135609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483990"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052137051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052137329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483997"
+1514052138078	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052140847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484005"
+1514052140850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484007"
+1514052140895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052141153	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484011"
+1514052141297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052147260	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052147413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052147414	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052147476	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052147497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052147505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484018"
+1514052147505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484016"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052148941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052149322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484023"
+1514052149805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052152705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052153164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484037"
+1514052153289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052159399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052159564	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052159566	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052159640	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052159658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052159665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484044"
+1514052159666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484042"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052161102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052161300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484049"
+1514052161878	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052164494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484054"
+1514052164495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484056"
+1514052164558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052165081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484060"
+1514052165108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052172800	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052172956	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052172959	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052173072	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052173098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052173106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484070"
+1514052173106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484068"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052174558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052174839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484075"
+1514052175342	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052177823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052178285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052184065	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052184246	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052184249	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052184347	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052184371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052184379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484096"
+1514052184379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484094"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052185810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052186132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484101"
+1514052187517	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052190285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484109"
+1514052190285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484111"
+1514052190374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052190621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484115"
+1514052190760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052197134	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052197322	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052197325	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052197408	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052197432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052197441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484122"
+1514052197441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484120"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052198914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052199231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484127"
+1514052200396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052203020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052203288	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484141"
+1514052203429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514052209468	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052209626	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052209629	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052209683	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052209700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052209722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484148"
+1514052209722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484146"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052211435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052211717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484153"
+1514052212283	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052215103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052215508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484164"
+1514052215546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052224261	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052224453	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052224455	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052224516	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052224538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052224545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484174"
+1514052224545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484172"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052225952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052226229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484179"
+1514052226991	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052229592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484187"
+1514052229603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484189"
+1514052229638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052229904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484193"
+1514052230031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052238796	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052239003	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052239006	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052239082	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052239103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052239112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484200"
+1514052239112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484198"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052240951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052241343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484205"
+1514052241978	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052244671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484213"
+1514052244683	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484215"
+1514052244766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052245149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484219"
+1514052245295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052254758	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052254918	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052254919	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052254983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052255004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052255012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484226"
+1514052255012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484224"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052256532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052256789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484231"
+1514052257396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514052260346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052260691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484245"
+1514052260826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052270794	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052270934	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052270936	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052271013	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052271035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052271043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484252"
+1514052271043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484250"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052272399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052272682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484257"
+1514052273265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052276078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052276543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484270"
+1514052276555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052285421	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052285635	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052285636	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052285702	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052285720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052285737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484278"
+1514052285737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484276"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052287179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052287458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484283"
+1514052287957	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052290914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052291352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052299358	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052299549	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052299552	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052299640	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052299663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052299671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484304"
+1514052299671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484302"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052301088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052301310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484309"
+1514052301976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052304881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052305285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484323"
+1514052305327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052314091	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052314288	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052314291	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052314386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052314408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052314417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484330"
+1514052314417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484328"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052315905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052316246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484335"
+1514052316720	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052319189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484340"
+1514052319305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484342"
+1514052319316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052319795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514052328341	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052328513	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052328516	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052328597	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052328616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052328624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484356"
+1514052328624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484354"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052330064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052330347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484361"
+1514052330876	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052333714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052334190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052344914	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052345064	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052345065	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052345125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052345145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052345154	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484382"
+1514052345154	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484380"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052346638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052346908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484387"
+1514052351570	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052354506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484395"
+1514052354507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484397"
+1514052354571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052354816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484401"
+1514052354944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514052364740	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052364933	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052364936	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052365005	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052365032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052365043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484408"
+1514052365044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484406"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052366358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052366575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484413"
+1514052367170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052370084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484418"
+1514052370095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052370670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052379754	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052379950	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052379953	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052380037	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052380061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052380069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484434"
+1514052380069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484432"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052381415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052382017	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484439"
+1514052382225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052384928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052385210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484450"
+1514052385329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052394395	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052394559	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052394563	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052394651	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052394675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052394684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484460"
+1514052394684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484458"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052396094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052396305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484465"
+1514052397301	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052399885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484473"
+1514052399886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484475"
+1514052399959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052400229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484479"
+1514052400371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052409906	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052410066	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052410070	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052410167	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052410188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052410197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484486"
+1514052410197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484484"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052411577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052412138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484491"
+1514052412404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052415236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052415695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052425036	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052425294	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052425297	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052425372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052425391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052425399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484512"
+1514052425399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484510"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052426936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052427163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484517"
+1514052428254	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052430861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484525"
+1514052430872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484527"
+1514052430934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052431202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484531"
+1514052431335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052441115	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052441286	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052441288	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052441352	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052441381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052441393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484538"
+1514052441393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484536"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052442790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052443082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484543"
+1514052443878	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052446701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052447010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484548"
+1514052447015	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484550"
+1514052447140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484557"
+1514052447183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052452935	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052453124	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052453128	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052453207	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052453233	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052453244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484564"
+1514052453244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484562"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052454941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052455184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484569"
+1514052456179	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052459120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484577"
+1514052459148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484579"
+1514052459149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052459427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484583"
+1514052459561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052465898	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052466068	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052466070	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052466128	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052466149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052466158	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484590"
+1514052466158	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484588"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052467590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052467818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484595"
+1514052468401	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052471083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052471473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484606"
+1514052471496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052478273	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052478408	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052478412	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052478500	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052478524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052478534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484616"
+1514052478534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484614"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052479969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052480314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484621"
+1514052481005	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052483599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052483876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484635"
+1514052484019	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052490854	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052491052	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052491055	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052491125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052491146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052491155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484642"
+1514052491155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484640"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052492571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052492865	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484647"
+1514052493409	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052495887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484652"
+1514052495888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484654"
+1514052495975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052496502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484658"
+1514052496502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514052502912	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052503050	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052503053	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052503129	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052503148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052503163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484668"
+1514052503163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484666"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052504594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052504882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484673"
+1514052505465	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052508240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052508627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484687"
+1514052508682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052515073	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052515273	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052515275	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1514052515346	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052515368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052515376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484694"
+1514052515376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484692"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052516823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052517110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484699"
+1514052517606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052520191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484704"
+1514052520304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052520698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484710"
+1514052520749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052551013	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=b63a0eac-adae-443b-b140-a1fd4383090a"
+1514052551213	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=b63a0eac-adae-443b-b140-a1fd4383090a"
+1514052551228	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=b63a0eac-adae-443b-b140-a1fd4383090a"
+1514052551305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052551326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052551333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484721"
+1514052551333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484719"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052552682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052553005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484726"
+1514052553645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052556454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484734"
+1514052556481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484736"
+1514052556501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052556740	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484740"
+1514052556878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052587268	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=4a6b904d-2a6b-49f1-8762-5d8eb01f8809"
+1514052587419	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=4a6b904d-2a6b-49f1-8762-5d8eb01f8809"
+1514052587436	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=4a6b904d-2a6b-49f1-8762-5d8eb01f8809"
+1514052587517	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052587541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052587548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484748"
+1514052587549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484746"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052588925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052589191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484753"
+1514052589835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052592761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484761"
+1514052592772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484763"
+1514052592772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052593037	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484767"
+1514052593173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052623411	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=83c7ceb5-b35f-43d7-a4cd-5ed10abbce85"
+1514052623632	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=83c7ceb5-b35f-43d7-a4cd-5ed10abbce85"
+1514052623645	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=83c7ceb5-b35f-43d7-a4cd-5ed10abbce85"
+1514052623719	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052623739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052623745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484775"
+1514052623746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484773"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052625160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052625441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484780"
+1514052626175	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052629223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484788"
+1514052629224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484790"
+1514052629234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052629684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052660420	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=3f596585-34a6-4776-869f-dc8dc842faba"
+1514052660618	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=3f596585-34a6-4776-869f-dc8dc842faba"
+1514052660633	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=3f596585-34a6-4776-869f-dc8dc842faba"
+1514052660723	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052660744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052660750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484802"
+1514052660751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484800"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052662136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052662435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484807"
+1514052662939	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052665707	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484812"
+1514052665708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484814"
+1514052665708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052666087	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484818"
+1514052666230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052696673	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=78902d59-174e-46f3-96f5-02fcac10b604"
+1514052696834	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=78902d59-174e-46f3-96f5-02fcac10b604"
+1514052696848	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=78902d59-174e-46f3-96f5-02fcac10b604"
+1514052696921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052696944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052696951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484829"
+1514052696951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484827"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052698602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052699142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484834"
+1514052699652	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052702363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484842"
+1514052702375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484844"
+1514052702475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052702699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484848"
+1514052702846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052733256	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=16f47e1c-87cf-45cb-8428-a02f5989acfd"
+1514052733411	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=16f47e1c-87cf-45cb-8428-a02f5989acfd"
+1514052733422	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&alerts=100900&cacheKey=16f47e1c-87cf-45cb-8428-a02f5989acfd"
+1514052733487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052733509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052733515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484856"
+1514052733516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484854"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052734982	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052735231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484861"
+1514052735836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052738573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052739072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484872"
+1514052739084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052769454	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052769621	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052769625	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052769717	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052769741	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052769745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484884"
+1514052769746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484881"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052771064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052771444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484889"
+1514052773442	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052775913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484897"
+1514052775925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484899"
+1514052775988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052776213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484903"
+1514052776360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052806667	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052806862	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052806865	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052806933	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052806954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052806958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484912"
+1514052806958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484909"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052808324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052808648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484917"
+1514052809304	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052812096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484925"
+1514052812125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484927"
+1514052812173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052812404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484931"
+1514052812551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052843022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052843218	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052843220	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052843290	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052843310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052843317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484940"
+1514052843318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484937"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052844649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052844973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484945"
+1514052845487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052848293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052848727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484956"
+1514052848729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052879016	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052879168	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052879170	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052879242	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052879262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052879267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484965"
+1514052879267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484962"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052880725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052881024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484970"
+1514052881506	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052884240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23537, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1514052884794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052915237	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052915578	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052915582	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052915673	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052915696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052915700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484993"
+1514052915700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484990"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052917072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052917374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484998"
+1514052917870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052920605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052920986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485009"
+1514052921099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052951403	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052951544	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052951553	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052951650	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052951671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052951676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485021"
+1514052951676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485018"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052953181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052953560	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485026"
+1514052953956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052956949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052957380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485037"
+1514052957417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052987759	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052987924	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052987927	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514052988001	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052988020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052988024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485048"
+1514052988024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485045"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514052989445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514052989744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485053"
+1514052990290	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514052993114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514052993598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053023854	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053024041	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053024044	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053024115	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514053024137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053024141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485076"
+1514053024142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485073"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514053025532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053025882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485081"
+1514053026433	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514053029293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053029636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485094"
+1514053029747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053060029	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053060221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053060223	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053060285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514053060306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053060310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485104"
+1514053060311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485101"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514053061691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053062075	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485109"
+1514053062565	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514053065317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053065596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485114"
+1514053065597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485116"
+1514053065741	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485123"
+1514053065790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053096476	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053096674	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053096678	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/content/www/en_US/system-unavailable.hhc.html"
+1514053096768	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1514053096793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053096798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485132"
+1514053096798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485129"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1514053098131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1514053098358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485137"
+1514053099034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+[Parent 23537, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514053101714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485145"
+1514053101715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485147"
+1514053101756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514053102009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147485151"
+1514053102158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515889183117	geckodriver	INFO	geckodriver 0.19.1
+1515889183133	geckodriver	INFO	Listening on 127.0.0.1:46989
+1515889184306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.097IGquSienD"
+1515889186950	Marionette	INFO	Enabled via --marionette
+1515889189529	Marionette	INFO	Listening on port 39866
+1515889189657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515889189719	Marionette	DEBUG	Register listener.js for window 2147483649
+1515889189806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515889190389	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515889190390	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515889190593	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1515889190614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1515889193182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1515889194450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1515889196824	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1515889199286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515889199837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1515889199838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1515889199998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515889200203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1515889200355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/sitewide/v4.12.0/criticalPath.min.js, line 1: Error: TrackJS Caught: flexDatesSearchObj.preloadImages is not a function
+1515889231719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.delta.com/air-shopping/flexDates.action"
+1515889231933	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.delta.com/air-shopping/flexDates.action"
+1515889231938	Marionette	DEBUG	Received DOM event "unload" for "https://www.delta.com/air-shopping/flexDates.action"
+1515889232033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.delta.com/"
+1515889232056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1515889232064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1515889232064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1515889232065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+JavaScript error: https://content.delta.com/content/dam/delta-applications/js/home/v4.12.0/compositeHome.min.js, line 1: Error: cannot call methods on selectmenu prior to initialization; attempted to call method 'refresh'
+1515889233569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.delta.com/"
+1515889233844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1515889234418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
