@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title>OnPoint flight finder</title>
+</head>
+<body id="top">
+
+
+<header id="header"> 
+  <div id="logo" class="fl_left">
+    <h1><a href="index.html">OnPoint</a></h1>
+  </div>
+</header>
+
+
+
+<form action="/findr/" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit" />
+</form>

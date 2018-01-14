@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--
+Template Name: Pleeness
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+  <title>OnPoint flight finder</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+
+
+<div class="wrapper row0">
+  <header id="header" class="hoc clear"> 
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">OnPoint</a></h1>
+    </div>
+  </header>
+</div>
+
+<div class="wrapper row2">
+  <nav id="mainav" class="hoc clear">
+    <ul class="clear">
+      <li><a href="index.html">Home</a></li>
+      <li class="active"><a href="finder.html">Find Flights</a></li>
+      <li><a href="http://www.majoweds.wixsite.com/majo">About Us</a></li>
+    </ul>
+  </nav>
+</div>
+
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <div class="left btmspace-50">
+      <h2 class="heading">It's time to fly!</h2>
+      <p> <strong> Note: </strong> This is a very simple form, we will make this nicer! </p>
+      <form action="results.html">
+        <div class="row">
+          <div class="col-25">
+            <label for="airline">Airline</label>
+          </div>
+          <div class="col-25">
+            <select id="airline" name="airline">
+              <option value="delta">Delta</option>
+              <option value="american">American Airlines</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="origin">Origin city</label>
+          </div>
+          <div class="col-75">
+            <select id="origin" name="origin">
+              <option value="ATL">Atlanta ATL</option>
+              <option value="JFK">New York JFK</option>
+              <option value="LGA">New York LGA</option>
+              <option value="SFO">San Francisco SFO</option>
+              <option value="ORD">Chicago ORD</option>
+              <option value="CLT">Charlotte CLT</option>
+              <option value="SLC">Salt Lake City SLC</option>
+              <option value="MSY">New Orleans MSY</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="destination">Destination city</label>
+          </div>
+          <div class="col-75">
+            <select id="destination" name="destination">
+              <option value="ATL">Atlanta ATL</option>
+              <option value="JFK">New York JFK</option>
+              <option value="LGA">New York LGA</option>
+              <option value="SFO">San Francisco SFO</option>
+              <option value="ORD">Chicago ORD</option>
+              <option value="CLT">Charlotte CLT</option>
+              <option value="SLC">Salt Lake City SLC</option>
+              <option value="MSY">NEw Orleans MSY</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="fname">Departure date</label>
+          </div>
+          <div class="col-75">
+            <input type="date" id="dep">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="fname">Return date</label>
+          </div>
+          <div class="col-75">
+            <input type="date" id="ret">
+          </div>
+        </div>
+        <div class="row">
+          <input type="submit" value="Submit">
+        </div>
+      </form>
+    </div>
+  </main>
+</div>
+<div class="wrapper row6">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+</body>
+</html>
