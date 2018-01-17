@@ -1,0 +1,34 @@
+INSTALL JAVA and NEO4j
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+update-java-alternatives --list
+sudo update-java-alternatives --jre --set java-1.8.0[... and else]
+
+wget -O - https://debian.neo4j.org/neotechnology.gpg.key | sudo apt-key add -
+echo 'deb http://debian.neo4j.org/repo stable/' | sudo tee -a /etc/apt/sources.list.d/neo4j.list
+sudo apt-get update
+
+sudo apt-get install neo4j
+
+I SET Initital password: OnPoint1!
+
+sudo pip install py2neo
+
+### TO START IT UP:
+I'm having some problems, I need to run TWO commands... -.-
+
+sudo neo4j start
+# an error arises.
+sudo systemctl start neo4j
+now I can go to: http://localhost:7474/browser/ to see what I have! how cool is this!
+
+I will use py2neo for most commands. Essentially I can create text queries and run them to change the database. Here's a couple of links
+
+http://py2neo.org/v3/index.html
+https://marcobonzanini.com/2015/04/06/getting-started-with-neo4j-and-python/
+
+
+
+now, just create the .py file with the commands on the library -.-
