@@ -1,1 +1,6 @@
 well, let's see how we do this...
+
+neoplay are codes to get acquainted with neo4j and python (for myself)
+the one that actually does all the storage and update of the database is neo_real1
+
+I need to find out how to put the database into a folder of my choice ...
